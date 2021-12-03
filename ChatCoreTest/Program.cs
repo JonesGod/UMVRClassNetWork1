@@ -19,7 +19,7 @@ namespace ChatCoreTest
             Write("Hello!!!");
             Write(2378);
             Write(20456.22f);
-            Write("Good Morning!!!");
+            Write("Good Morning!");
 
             Console.Write($"Output Byte array(length:{m_Pos}): ");
             for (var i = 0; i < m_Pos; i++)
